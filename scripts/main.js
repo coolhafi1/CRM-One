@@ -8,7 +8,7 @@ require(
         //'customersApp/animations/listAnimations',
         'app',
         //'customersApp/directives/wcUnique',
-        'customersApp/services/routeResolver'
+        'crmApp/services/routeResolver'
         //'customersApp/services/config',
         //'customersApp/services/customersBreezeService',
         //'customersApp/services/authService',
